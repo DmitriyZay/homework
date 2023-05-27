@@ -14,10 +14,10 @@ h1{
     color: blue;
 }
 .box div{
-    color: green;
+    background: green;
 }
 .box p{
-    color: red;
+    background: red;
 }
 .brown{
     color: white;
